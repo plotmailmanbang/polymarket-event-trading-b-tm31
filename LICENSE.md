@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket automation-script with Polymarket vip Automation Script: price-monitoring & order-book-analysis. Featuring price-monitoring and order-book-analysis,
 
 
 
